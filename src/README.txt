@@ -59,5 +59,3 @@ Future Enhancements
 	•	Add more gestures for advanced interactions.
 	•	Implement eraser functionality to clear specific areas of the whiteboard.
 	•	Include multi-hand tracking for collaborative use.
-
-Let me know if you need further edits or additions!
