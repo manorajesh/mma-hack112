@@ -1,4 +1,3 @@
-Here’s a draft of a README file for your app:
 
 Hand Tracking Whiteboard App
 
